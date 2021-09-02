@@ -2,7 +2,9 @@
 <a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Microsoft Visual Studio-5C2D91.svg?logo=visual-studio&style=plastic" height="25">
 </a>
-<img src="https://img.shields.io/badge/-Visual Basic .NET-5C2D91.svg?logo=.net&style=plastic" height="25"><img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=csharp&style=plastic" height="25">
+<a href="https://visualstudio.microsoft.com/ja/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=csharp&style=plastic" height="25">
+</a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Eclipse Foundation-2C2255.svg?logo=eclipseide&style=plastic" height="25">
 </a>
@@ -21,26 +23,21 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F.svg?logo=spring-boot&style=plastic" height="25">
 </a>
-<a href="https://jp.heroku.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic" height="25">
+<a href="http://tomcat.apache.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75.svg?logo=apache-tomcat&style=plastic" height="25">
+</a>
+<a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/-Apache Maven-C71A36.svg?logo=apache-maven&style=plastic" height="25">
 </a>
 
 ***
 
 ## :stars:リポジトリ(:arrow_down:プログラムソース確認はこちら:arrow_down:)  
 [![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=furumiya-development&repo=SpBootRestPostgres&theme=nord)](https://github.com/furumiya-development/SpBootRestPostgres)
-<a href="https://github.com/furumiya-development/AdoNetDesktopSqlSvr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fujio-development&repo=AdoNetDesktopSqlSvr&theme=vue" />
-</a>
-<a href="https://github.com/furumiya-development/Denki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fujio-development&repo=Denki&theme=vue" />
-</a>
-<a href="https://github.com/furumiya-development/SpBootMvcPostgres">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fujio-development&repo=SpBootMvcPostgres&theme=vue" />
-</a>
-<a href="https://github.com/furumiya-development/EntityDesktopSqlSvr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fujio-development&repo=EntityDesktopSqlSvr&theme=vue" />
-</a>
+[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=furumiya-development&repo=HttpsRestClientSwing&theme=nord)](https://github.com/furumiya-development/HttpsRestClientSwing)
+[![Repo3](https://github-readme-stats.vercel.app/api/pin/?username=furumiya-development&repo=AspNetCoreRestSqlSvr&theme=nord)](https://github.com/furumiya-development/AspNetCoreRestSqlSvr)
+[![Repo4](https://github-readme-stats.vercel.app/api/pin/?username=furumiya-development&repo=HttpsRestClientWinForms&theme=nord)](https://github.com/furumiya-development/HttpsRestClientWinForms)
+[![Repo5](https://github-readme-stats.vercel.app/api/pin/?username=furumiya-development&repo=DenkiTsuika&theme=nord)](https://github.com/furumiya-development/DenkiTsuika)
 
 ***
 
