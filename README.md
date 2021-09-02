@@ -43,7 +43,7 @@
 
 ## ステータス  
 ### [:trophy: Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=furumiya-development&theme=nord)](https://github.com/furumiya-development/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=furumiya-development&theme=nord&column=7)](https://github.com/furumiya-development/github-profile-trophy)
 
 ### [:chart_with_upwards_trend: Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/furumiya-development/furumiya-development/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
